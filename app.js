@@ -4,6 +4,7 @@ const game = () => {
 
   //Start the Game
   const startGame = () => {
+    
     const playBtn = document.querySelector(".intro button");
     const introScreen = document.querySelector(".intro");
     const match = document.querySelector(".match");
